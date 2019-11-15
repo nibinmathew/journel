@@ -1,0 +1,2 @@
+# journel
+ django journel app
